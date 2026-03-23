@@ -1,0 +1,81 @@
+# Orcas y la evolución de los cetáceos
+
+## Introducción
+
+Los cetáceos (orden *Cetacea*) son un grupo de mamíferos marinos que incluye ballenas, delfines y marsopas. A pesar de su adaptación completa al medio acuático, estos organismos tienen un origen terrestre. El estudio de su evolución representa uno de los ejemplos más claros de transición evolutiva desde ambientes terrestres hacia ambientes acuáticos.
+
+Dentro de este grupo, las orcas (*Orcinus orca*) destacan como depredadores tope y como un modelo importante para estudiar adaptación, comportamiento y evolución dentro de los odontocetos.
+
+## Origen evolutivo de los cetáceos
+
+Los cetáceos evolucionaron a partir de mamíferos terrestres hace aproximadamente 50 millones de años, durante el Eoceno. Sus ancestros más cercanos pertenecen al grupo de los artiodáctilos, siendo los hipopótamos sus parientes vivos más cercanos.
+
+### Etapas clave de la evolución
+
+- *Pakicetus*: mamífero terrestre con características auditivas similares a cetáceos.
+- *Ambulocetus*: forma transicional semiacuática.
+- *Rodhocetus*: mayor adaptación al medio acuático.
+- *Basilosaurus*: completamente acuático, con vestigios de patas traseras.
+
+## Adaptaciones al medio acuático
+
+Durante su evolución, los cetáceos desarrollaron múltiples adaptaciones:
+
+- Transformación de extremidades anteriores en aletas.
+- Reducción de extremidades posteriores.
+- Desarrollo de una cola con aleta caudal.
+- Modificación del sistema respiratorio mediante el espiráculo.
+- Adaptaciones auditivas para la percepción submarina.
+- Cambios en el sistema locomotor y la densidad ósea.
+
+## Clasificación de los cetáceos
+
+Los cetáceos se dividen en dos grandes grupos:
+
+### Odontocetos
+
+Incluyen delfines, marsopas y orcas. Se caracterizan por la presencia de dientes y el uso de ecolocalización.
+
+### Misticetos
+
+Incluyen ballenas con barbas. Se alimentan mediante filtración de partículas en el agua.
+
+## Orcas (*Orcinus orca*)
+
+Las orcas pertenecen al grupo de los odontocetos y son consideradas uno de los depredadores más eficientes del océano.
+
+### Características principales
+
+- Distribución global.
+- Alta inteligencia y comportamiento social complejo.
+- Uso de ecolocalización.
+- Dieta variada que incluye peces, mamíferos marinos y aves.
+
+## Comportamiento y cultura
+
+Las orcas presentan comportamientos que pueden considerarse culturales:
+
+- Técnicas de caza específicas según la población.
+- Diferencias en vocalizaciones (dialectos).
+- Transmisión de comportamientos entre generaciones.
+
+Estas características sugieren la existencia de procesos de evolución cultural además de la evolución biológica.
+
+## Importancia evolutiva
+
+El estudio de las orcas y los cetáceos permite comprender:
+
+- Procesos de adaptación a ambientes acuáticos.
+- Evolución convergente y divergente.
+- Relación entre genética, comportamiento y ambiente.
+- Evolución de sistemas complejos como la ecolocalización.
+
+## Conclusión
+
+Los cetáceos representan un caso destacado de transición evolutiva desde la vida terrestre hacia la acuática. Dentro de este grupo, las orcas destacan por su éxito ecológico y su complejidad conductual, lo que las convierte en un modelo relevante para el estudio de la evolución en ambientes marinos.
+
+## Referencias
+
+- Thewissen, J. G. M. (2009). *The Walking Whales: From Land to Water in Eight Million Years*.
+- Uhen, M. D. (2010). The origin(s) of whales. Annual Review of Earth and Planetary Sciences.
+- Ford, J. K. B. (2009). Killer whale: *Orcinus orca*. In Encyclopedia of Marine Mammals.
