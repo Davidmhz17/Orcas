@@ -2,7 +2,7 @@
 ![Orca](![orca jpg](https://github.com/user-attachments/assets/8cd4849c-ff56-449a-aab5-229f25bb2614)
 ##Introduccion
 
-Los cetáceos (orden *Cetacea*) son un grupo de mamíferos marinos que incluye ballenas, delfines y marsopas. A pesar de su adaptación completa al medio acuático, estos organismos tienen un origen terrestre. El estudio de su evolución representa uno de los ejemplos más claros de transición evolutiva desde ambientes terres![Uploading orca.jpg.jpg…]()
+Los cetáceos (orden *Cetacea*) son un grupo de mamíferos marinos que incluye ballenas, delfines y marsopas. A pesar de su adaptación completa al medio acuático, estos organismos tienen un origen terrestre. El estudio de su evolución representa uno de los ejemplos más claros de transición evolutiva desde ambientes terres
 tres hacia ambientes acuáticos. Dentro de este grupo, las orcas (*Orcinus orca*) destacan como depredadores tope y como un modelo importante para estudiar adaptación, comportamiento y evolución dentro de los odontocetos.
 ## Origen evolutivo de los cetáceos
 Los cetáceos evolucionaron a partir de mamíferos terrestres hace aproximadamente 50 millones de años, durante el Eoceno. Sus ancestros más cercanos pertenecen al grupo de los artiodáctilos, siendo los hipopótamos sus parientes vivos más cercanos.
